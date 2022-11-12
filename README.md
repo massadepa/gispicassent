@@ -1,1 +1,1 @@
-Aquest projecte preten ser un joc on provar Gis WebApps.
+Aquest repositori preten ser un lloc on provar Gis WebApps.
